@@ -10,13 +10,14 @@
   "author": "Walter Coan",
   "license": "MIT",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/MaiconCerutti/grupohackathon.git"
+    "type": "git",
+    "url": "git+https://github.com/waltercoan/grupohackathon.git"
   },
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "express-generator": "^4.13.4",
-    "express-handlebars": "^3.0.0"
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.12.0"
   }
 }
